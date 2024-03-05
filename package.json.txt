@@ -1,0 +1,9 @@
+{
+  "name": "@huyenkulzz/test-game-tra",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@huyenkulzz",
+  "repository": "https://github.com/opmklinh/test-game-tra.git",
+  "license": "ISC"
+}
